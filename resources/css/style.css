@@ -24,6 +24,6 @@ a {
 
 html #top-section {
     display: flex;
-    flex: auto;
-    justify-content: center;
+    flex-flow: column;
+    align-items: center;
 }
