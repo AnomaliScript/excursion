@@ -22,7 +22,7 @@ a {
     text-decoration: underline;
 }
 
-html #top-most-header {
+html #top-section {
     display: flex;
     flex: auto;
     justify-content: center;
