@@ -19,11 +19,19 @@ a {
     flex: auto;
     justify-content: center;
     color: aquamarine;
-    text-decoration: underline;
 }
 
-html #top-section {
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+body #content {
     display: flex;
     flex-flow: column;
     align-items: center;
+}
+
+body #copyright {
+    text-align: right;
 }
