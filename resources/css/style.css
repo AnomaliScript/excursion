@@ -26,12 +26,12 @@ p {
     color: gray;
 }
 
-body #content {
+#content {
     display: flex;
     flex-flow: column;
     align-items: center;
 }
 
-body #copyright {
+#copyright {
     text-align: right;
 }
