@@ -32,6 +32,10 @@ p {
     align-items: center;
 }
 
+#phone-icon {
+    margin-top: 20px;
+}
+
 #copyright {
     text-align: right;
 }
